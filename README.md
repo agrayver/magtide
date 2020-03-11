@@ -5,7 +5,10 @@ This repo provides some utilities to calculate and visualize magnetic fields due
 > Grayver, A. V., & Olsen, N. (2019). The Magnetic Signatures of the M2, N2, and O1 Oceanic Tides Observed in Swarm and CHAMP Satellite Magnetic Data. Geophysical Research Letters, 46(8), 4230-4238.
 > https://doi.org/10.1029/2019GL082400
 
-This repo uses [ChaosMagPy](https://github.com/ancklo/ChaosMagPy)
+# Dependencies
+- [ChaosMagPy](https://github.com/ancklo/ChaosMagPy)
+- NumPy / SciPy
+- Matplotlib
 
 The figures below show real and imaginary parts since the tidal signals are harmonic and usually analysed in frequency domain.
 
