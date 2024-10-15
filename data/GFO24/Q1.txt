@@ -1,0 +1,34 @@
+# Estimated on 21-Dec-2023 17:00:31
+# Reference: Grayver, A., Finlay, C. C., & Olsen, N. (2024). Magnetic signals from oceanic tides: new sat-ellite observations and applications. 
+# Philosophical Transactions of the Royal Society of London, doi: 10.1098/rsta.2024.0078. Preprint arXiv:2404.03504 
+# Estimated intercept 0                                                       
+# Phase given with respect to the Greenwich meridian                          
+# First data line: N_max T (in hours)                                         
+# Subsequent data lines: degree n   order m   a_n^m/b_n^m   c_n^m/d_n^m       
+# where m >= 0 correspond to the cosine time dependent terms a_n^m resp c_n^m,
+# and m < 0 correspond to the sine time dependent terms b_n^m resp d_n^m.     
+   4 26.8683                                                                  
+    1     0 -0.000679577  0.003258224
+    1     1  0.006856611  0.005568258
+    1    -1 -0.000058907 -0.007937303
+    2     0 -0.001112977  0.002565430
+    2     1  0.000597473  0.005640845
+    2    -1  0.004162243  0.001027543
+    2     2 -0.001763121 -0.000526105
+    2    -2 -0.000968613 -0.000636801
+    3     0 -0.001734413 -0.003467482
+    3     1 -0.005848375 -0.010746646
+    3    -1 -0.009315723  0.002294605
+    3     2  0.001969823  0.004440931
+    3    -2  0.003615674  0.001119986
+    3     3 -0.004663824  0.010519723
+    3    -3 -0.001352463  0.003543086
+    4     0  0.000669169  0.001723249
+    4     1  0.000294707  0.000611686
+    4    -1  0.000945345 -0.001556383
+    4     2 -0.002588526  0.003694187
+    4    -2  0.000935371 -0.000844755
+    4     3  0.003653099 -0.003612501
+    4    -3 -0.003284893  0.002595700
+    4     4  0.002285048 -0.002176161
+    4    -4 -0.000991855  0.006171063
