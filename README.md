@@ -1,4 +1,4 @@
-# Magnetic signatures of ocean tidal signals observed by sattelite
+# Magnetic signatures of ocean tidal signals observed retrieved from space magnetic field observations
 
 This repo provides some utilities to work with satellite-detected magnetic signals due to different ocean tidal constituents based on their Spherical Harmonic expansion coefficients. This repository supplements the following publications:
 
