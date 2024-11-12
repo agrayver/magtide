@@ -2,7 +2,7 @@
 
 This repo provides some utilities to work with satellite-detected magnetic signals due to different ocean tidal constituents based on their Spherical Harmonic expansion coefficients. This repository supplements the following publications:
 
-- Grayver, A., Finlay, C. C., & Olsen, N. (2024). Magnetic signals from oceanic tides: new sat-ellite observations and applications. Philosophical Transactions of the Royal Society of London, doi: 10.1098/rsta.2024.0078. Preprint https://arxiv.org/abs/2404.03504
+- Grayver, A., Finlay, C. C., & Olsen, N. (2024). Magnetic signals from oceanic tides: new sat-ellite observations and applications. Philosophical Transactions of the Royal Society of London, 382: 20240078. https://doi.org/10.1098/rsta.2024.00788  Preprint https://arxiv.org/abs/2404.03504
 - Grayver, A. V., & Olsen, N. (2019). "The Magnetic Signatures of the M2, N2, and O1 Oceanic Tides Observed in Swarm and CHAMP Satellite Magnetic Data". *Geophysical Research Letters,* 46(8), 4230-4238. https://doi.org/10.1029/2019GL082400
 
 # Dependencies
