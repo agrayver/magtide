@@ -1,6 +1,5 @@
 # Created on 09-Feb-2024 15:17:36                                             
 # CM6 estimation of the signal                                                
-# Phase given with respect to the Greenwich meridian                          
 # First data line: N_max T (in hours)                                         
 # Subsequent data lines: degree n   order m   a_n^m/b_n^m   c_n^m/d_n^m       
 # where m >= 0 correspond to the cosine time dependent terms a_n^m resp c_n^m,
