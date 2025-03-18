@@ -17,16 +17,16 @@ The figures below show real and imaginary parts since the tidal signals are harm
 
 Top row shows real and imaginary parts of the signals extracted from satellite observations. Bottom shows result of 3-D numerical simulations. 
 
-![alt text](data/GFO24/M2.png)
+![alt text](data/GFO24-HR/M2.png)
 
 #### Same as above, but for N2 tide
 
-![alt text](data/GFO24/N2.png)
+![alt text](data/GFO24-HR/N2.png)
 
 #### Same as above, but for O1 tide
 
-![alt text](data/GFO24/O1.png)
+![alt text](data/GFO24-HR/O1.png)
 
 #### Same as above, but for Q1 tide
 
-![alt text](data/GFO24/Q1.png)
+![alt text](data/GFO24-HR/Q1.png)
